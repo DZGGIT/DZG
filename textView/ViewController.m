@@ -20,6 +20,7 @@
     NSString *text=[NSString stringWithContentsOfFile:[[NSBundle mainBundle]pathForResource:@"1.txt" ofType:@"txt"] encoding: NSUTF16StringEncoding error:&error];
     NSLog(@"%@",text);
     NSLog(@"122233yuiuiuiiii");
+    NSLog(@"euefjdfjejdjejd");
     // Do any additional setup after loading the view, typically from a nib.
 }
 - (void)didReceiveMemoryWarning {
